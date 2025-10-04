@@ -34,3 +34,11 @@ I am actively transitioning my robust background in Web Development (TypeScript,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil-dahal&layout=compact&theme=vue)](https://github.com/Sushil-dahal)
 
 ---
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
